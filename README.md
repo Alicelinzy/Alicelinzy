@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alicelinzy
 - 👀 I’m interested in software development
-- 🌱 I have Bachelors in IT (AInformation Technology)
+- 🌱 I have Bachelors in IT (Information Technology)
 - 💞️ I’m looking to collaborate on developig working softwares
 - 📫 How to reach me on my email.
 
